@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **luizsantiago280@gmail.com**
 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavoSantiagoo&bg_color=000000&color=529e4c&line=ffffff&point=228740&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luiz gustavo santiago" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luiz gustavo santiago" height="30" width="40" /></a>
