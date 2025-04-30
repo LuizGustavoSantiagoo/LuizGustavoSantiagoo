@@ -3,7 +3,7 @@
 
 - Working on **Boeing & Rocha**
 
-- 🌱 I’m currently learning **Typescript, React Native, PHP, Laravel, Angular, Mysql**
+- 🌱 I’m currently learning **Typescript, React Native, PHP, Laravel, Angular, Mysql, SpringBoot**
 
 - 📫 How to reach me **luizsantiago280@gmail.com**
 
@@ -28,4 +28,6 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer" margin="0 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" margin="0 10px"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" margin="0 10px"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" margin="0 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" margin="0 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+ <a href="https://laravel.com/" target="_blank" rel="noreferrer" margin="0 10px"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="typescript" width="40" height="40"/> </a>
+</p>
