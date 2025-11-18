@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, React Native, PHP, Laravel, Angular, Mysql**
 
-- 📫 How to reach me **luizsantiago280@gmail.com**
+- 📫 Text me **luizsantiago280@gmail.com**
 
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavoSantiagoo&bg_color=000000&color=529e4c&line=ffffff&point=228740&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
