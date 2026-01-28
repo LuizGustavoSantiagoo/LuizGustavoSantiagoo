@@ -4,14 +4,14 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="[https://skillicons.dev](https://www.linkedin.com/in/luiz-gustavo-de-oliveira-santiago-a04763263/)">
+<a target="_blank" href=https://www.linkedin.com/in/luiz-gustavo-de-oliveira-santiago-a04763263/">
     <img 
       src="https://skillicons.dev/icons?i=linkedin" 
       alt="My Skills"
     />
   </a>
 
- <a href="https://instagram.com/luiz.gustavo.santiago">
+ <a target="_blank" href="https://instagram.com/luiz.gustavo.santiago">
     <img 
       src="https://skillicons.dev/icons?i=instagram" 
       alt="My Skills"
