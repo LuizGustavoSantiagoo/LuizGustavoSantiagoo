@@ -6,9 +6,9 @@
   <br />
   <br />
   <div>
-    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="Repos per Language" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="Most Commit Language" />
-    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="General Stats" />
+    <img align="left" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="Repos per Language" />
+    <img align="center" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="Most Commit Language" />
+    <img align="right" width="30%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="General Stats" />
   </div>
 </div>
 
