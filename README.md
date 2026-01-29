@@ -1,6 +1,16 @@
 <h1 align="center">Luiz Gustavo de Oliveira Santiago</h1>
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizGustavoSantiagoo&bg_color=000000&color=529e4c&line=ffffff&point=228740&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuizGustavoSantiagoo&theme=zenburn" width="100%" alt="Profile Details" />
+
+  <br />
+  <br />
+  <div>
+    <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="Repos per Language" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="Most Commit Language" />
+    <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizGustavoSantiagoo&theme=zenburn" width="32%" alt="General Stats" />
+  </div>
+</div>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -23,7 +33,7 @@
 <div align="center">
   <a href="https://skillicons.dev">
     <img 
-      src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,mysql,next,nest,react,angular,ts,git,github,figma,vscode&theme=light&perline=5" 
+      src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,php,laravel,mysql,next,nest,react,angular,ts,git,github,figma,vscode&theme=light" 
       alt="My Skills"
     />
   </a>
