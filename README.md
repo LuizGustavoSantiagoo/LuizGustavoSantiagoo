@@ -39,9 +39,9 @@
   </a>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./src/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./src/light.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./svg/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./svg/light.svg" />
+  <img alt="github-snake" src="./svg/light.svg" />
 </picture>
 </div>
 
