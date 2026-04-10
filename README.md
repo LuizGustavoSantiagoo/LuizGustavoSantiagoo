@@ -37,6 +37,12 @@
       alt="My Skills"
     />
   </a>
+
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./src/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./src/light.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 </div>
 
 
