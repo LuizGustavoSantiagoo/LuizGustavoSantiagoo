@@ -39,9 +39,9 @@
   </a>
 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./svg/dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./svg/light.svg" />
-  <img alt="github-snake" src="./svg/light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizGustavoSantiagoo/LuizGustavoSantiagoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizGustavoSantiagoo/LuizGustavoSantiagoo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizGustavoSantiagoo/LuizGustavoSantiagoo/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
 
