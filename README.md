@@ -29,7 +29,7 @@ and good practices. If you want to talk about React, Next, Laravel or TypeScript
 
 Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,angular" alt="Front-end skills" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,angular,ruby,rails" alt="Front-end skills" />
 
 Back-end
 
