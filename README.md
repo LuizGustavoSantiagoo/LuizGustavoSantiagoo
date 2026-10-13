@@ -1,90 +1,53 @@
-<div align="center">
+<h2 align="center">Hi, I'm Luiz Gustavo</h2>
+<p align="center">Junior Full Stack Developer · Brazil 🇧🇷</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6CB6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Luiz+Gustavo;Full+Stack+Developer" alt="Typing SVG" />
-
-</div>
-
----
-
-<h3 align="center">About me</h3>
-
-<p align="left">
-I'm a full stack developer, and I really enjoy building web applications from start to finish,
-the part the user sees and the part that runs behind it. Most of my work is with the
-JavaScript and TypeScript world (React, Next, Angular and Nest), and I also build back-end
-applications with PHP and Laravel. I like clean, well-organized code, and I'm always trying
-to learn a bit more and get better at what I do.
-</p>
-
-<p align="left">
-Right now I'm focused on full stack projects and learning more about application architecture
-and good practices. If you want to talk about React, Next, Laravel or TypeScript, I'm in.
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-gustavo-de-oliveira-santiago-a04763263/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/luiz.gustavo.santiago"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-<h3 align="left">Tech and tools</h3>
+### About me
 
-<p align="left">
+I'm a full stack developer who enjoys building web applications from start to finish — the interface the user sees and everything that runs behind it. I care about clean, well-organized code and I'm always looking to learn something new.
 
-Front-end
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,next,angular,ruby,rails" alt="Front-end skills" />
-
-Back-end
-
-<img src="https://skillicons.dev/icons?i=php,laravel,nest,mysql" alt="Back-end skills" />
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" alt="Tools" />
-
-AI
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude.png" />
-  <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude.png" alt="Claude" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/githubcopilot.png" />
-  <img height="48" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/githubcopilot.png" alt="Copilot" />
-</picture>
-</p>
+- 🚀 Junior developer working across the whole stack — front-end, back-end and databases
+- 💻 Working mostly with **JavaScript / TypeScript** — React, Next.js, Vue, Angular and NestJS
+- 🐘 Building back-end applications with **PHP and Laravel**
+- 📚 Currently studying **software architecture** and good practices
+- 💬 Ask me about **React, Next.js, Laravel or TypeScript**
+- 🌎 Portuguese (native) · English (intermediate)
 
 ---
 
-<h3 align="left">Languages</h3>
+### Featured project
 
-<p align="left">
-🇧🇷​ Portuguese — Native &nbsp;|&nbsp; 🇺🇸​ English — Intermediate
-</p>
+**[Arena Golden Sun](https://goldensun.site)** — website I designed and built from scratch for Arena Golden Sun.
 
----
-
-<h3 align="left">Contributions</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuizGustavoSantiagoo/LuizGustavoSantiagoo/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuizGustavoSantiagoo/LuizGustavoSantiagoo/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LuizGustavoSantiagoo/LuizGustavoSantiagoo/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
+<a href="https://goldensun.site"><img src="https://img.shields.io/badge/Visit_site-goldensun.site-6cb6ff?style=flat" alt="Visit goldensun.site" /></a>
 
 ---
 
-<h3 align="left">Let's connect</h3>
+### Tech stack
 
-<p align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/luiz-gustavo-de-oliveira-santiago-a04763263/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <a target="_blank" href="https://instagram.com/luiz.gustavo.santiago">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
+**Front-end**
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LuizGustavoSantiagoo&label=Profile%20views&color=6cb6ff&style=flat" alt="Profile views" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,vue,angular,tailwind,bootstrap&perline=10" alt="Front-end" />
+
+**Back-end & database**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nest,ruby,rails,mysql,postgres,sqlite&perline=10" alt="Back-end" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=10" alt="Tools" />
+
+**AI**
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+
+---
+
+<p align="center"><sub>Thanks for stopping by</sub></p>
